@@ -1,6 +1,10 @@
 #Jupiter Notebook Repository for Q-Step Edinburgh
 
-Q-Step Edinburgh Jupiter Resources
+##An introduction to Jupyter Notebooks - a quick-step towards literate computing and reproducible research
+
+The material in the repository is designed to support Q-Step students. 
+
+###Getting Started
 
 The Project Jupyter Website http://jupyter.org/
 
