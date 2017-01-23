@@ -1,4 +1,5 @@
-#qstep_jupyter
+#Jupiter Notebook Repository for Q-Step Edinburgh
+
 Q-Step Edinburgh Jupiter Resources
 
 The Project Jupyter Website http://jupyter.org/
