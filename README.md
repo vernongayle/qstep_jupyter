@@ -2,7 +2,10 @@
 
 ##An introduction to Jupyter Notebooks - a quick-step towards literate computing and reproducible research
 
-The material in the repository is designed to support Q-Step students. 
+The material in the repository is designed for Edinburgh Q-Step students (http://www.q-step.ed.ac.uk/) who wish to use Jupyter Notebooks.
+
+The material supports a Edinburgh Q-Step Workshop held in January 2017.
+
 
 ###Getting Started
 
