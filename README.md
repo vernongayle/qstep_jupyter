@@ -1,4 +1,4 @@
-#Jupiter Notebook Repository for Q-Step Edinburgh
+#Jupyter Notebook Repository for Q-Step Edinburgh
 
 ##An introduction to Jupyter Notebooks - a quick-step towards literate computing and reproducible research
 
