@@ -29,7 +29,7 @@ The Quickstart Guide to https://jupyter.readthedocs.io/en/latest/content-quickst
 The Workflow of Data Analysis Using Stata http://www.indiana.edu/~jslsoc/web_workflow/wf_home.htm
 
 Paper on the workflow in social science data analysis 
-Gayle, V.J. and Lambert, P.S. (2017) The Workflow: A Practical Guide to Producing Accurate, Efficient, Transparent and Reproducible Social Survey Data Analysis. NCRM Working http://eprints.ncrm.ac.uk/4000/
+Gayle, V.J. and Lambert, P.S. (2017) The Workflow: A Practical Guide to Producing Accurate, Efficient, Transparent and Reproducible Social Survey Data Analysis. NCRM Working Paper http://eprints.ncrm.ac.uk/4000/
 
 Literate Computing - a post from Fernando Perez's blog http://blog.fperez.org/2013/04/literate-computing-and-computational.html
 
