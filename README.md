@@ -6,6 +6,8 @@ The material in the repository is designed for Edinburgh Q-Step students (http:/
 
 The material supports a Edinburgh Q-Step Workshop held in January 2017.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Os3s1jwLAEI" frameborder="0" allowfullscreen></iframe>
+
 *****************************************************************************************************************************************
 
 ###Getting Started
