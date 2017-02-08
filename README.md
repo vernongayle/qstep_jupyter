@@ -6,7 +6,7 @@ The material in the repository is designed for Edinburgh Q-Step students (http:/
 
 The material supports a Edinburgh Q-Step Workshop held in January 2017.
 
-"https://www.youtube.com/watch?v=Os3s1jwLAEI"
+###An Introudctory Video "https://www.youtube.com/watch?v=Os3s1jwLAEI
 
 *****************************************************************************************************************************************
 
