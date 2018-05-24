@@ -1,16 +1,16 @@
-#Jupyter Notebook Repository for Q-Step Edinburgh
+# Jupyter Notebook Repository for Q-Step Edinburgh
 
-##An introduction to Jupyter Notebooks - a quick-step towards literate computing and reproducible research
+## An introduction to Jupyter Notebooks - a quick-step towards literate computing and reproducible research
 
 The material in the repository is designed for Edinburgh Q-Step students (http://www.q-step.ed.ac.uk/) who wish to use Jupyter Notebooks.
 
 The material supports a Edinburgh Q-Step Workshop held in January 2017.
 
-###An Introudctory Video "https://www.youtube.com/watch?v=Os3s1jwLAEI
+### An Introudctory Video "https://www.youtube.com/watch?v=Os3s1jwLAEI
 
 *****************************************************************************************************************************************
 
-###Getting Started
+### Getting Started
 
 The Project Jupyter Website http://jupyter.org/
 
@@ -26,7 +26,7 @@ The Quickstart Guide to https://jupyter.readthedocs.io/en/latest/content-quickst
 
 
 
-###RESOURCES
+### RESOURCES
 
 The Workflow of Data Analysis Using Stata http://www.indiana.edu/~jslsoc/web_workflow/wf_home.htm
 
